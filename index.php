@@ -390,11 +390,11 @@
 					}
 				}
 		
-				$fichier="/achatEtRevendre/".$_GET['p'].'.php';
+				$fichier="https://josianerochafernandes.github.io/achatEtRevendre/".$_GET['p'].'.php';
 			}
 			else
 			{
-				$fichier="/achatEtRevendre/".$_GET['p'].'.html';
+				$fichier="https://josianerochafernandes.github.io/achatEtRevendre//".$_GET['p'].'.html';
 			}
 		}
 		
