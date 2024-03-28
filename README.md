@@ -4,8 +4,11 @@
 <img src="image1.png">
 
 <p>Page Shop: </p>
-<img src="image2.png">
+<img src="image2a.png">
+<img src="image2b.png">
 
 <p>Page Création: </p>
 <img src="imgage3.png">
 
+<p>Page Contact</p>
+<img src="image4.png">
