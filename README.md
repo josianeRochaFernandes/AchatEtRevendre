@@ -1,1 +1,1 @@
-index.php
+<a href=index.php"> Page </a>
