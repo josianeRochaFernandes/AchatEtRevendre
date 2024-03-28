@@ -329,7 +329,7 @@
 					</div>
 						
 					<ul class="nav navbar-nav">
-						<li ><a href="/achatEtRevendre/index.php?p=mainPage">Menu</a></li>
+						<li ><a href="index.php?p=mainPage">Menu</a></li>
 						<li><a href="/achatEtRevendre/index.php?p=vendreArticle">Store</a></li>
 						<li><a href="/achatEtRevendre/index.php?p=shop">Shop</a></li>
 						<li><a href="/achatEtRevendre/index.php?p=contact">Contact</a></li>
