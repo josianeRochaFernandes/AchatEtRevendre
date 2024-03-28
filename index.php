@@ -323,16 +323,16 @@
 			<nav class="navbar navbar-inverse" >
 				<div class="container-fluid">
 					<div class="navbar-header">
-						<a class="navbar-brand" href="index.php?p=mainPage">
+						<a class="navbar-brand" href="https://josianerochafernandes.github.io/achatEtRevendre/index.php?p=mainPage">
 							Achat&Revendre
 						</a>
 					</div>
 						
 					<ul class="nav navbar-nav">
-						<li ><a href="index.php?p=mainPage">Menu</a></li>
-						<li><a href="index.php?p=vendreArticle">Store</a></li>
-						<li><a href="index.php?p=shop">Shop</a></li>
-						<li><a href="index.php?p=contact">Contact</a></li>
+						<li ><a href="https://josianerochafernandes.github.io/achatEtRevendre/index.php?p=mainPage">Menu</a></li>
+						<li><a href="https://josianerochafernandes.github.io/achatEtRevendre/index.php?p=vendreArticle">Store</a></li>
+						<li><a href="https://josianerochafernandes.github.io/achatEtRevendre/index.php?p=shop">Shop</a></li>
+						<li><a href="https://josianerochafernandes.github.io/achatEtRevendre/index.php?p=contact">Contact</a></li>
 					</ul>
 					
 				</div>
