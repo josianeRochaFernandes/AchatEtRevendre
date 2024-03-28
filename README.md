@@ -1,1 +1,1 @@
-<a href="index.php"> Page </a>
+Page index.php is the main page
