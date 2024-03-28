@@ -10,5 +10,5 @@
 <p>Page Création: </p>
 <img src="image3.png">
 
-<p>Page Contact</p>
+<p>Page Contact:</p>
 <img src="image4.png">
