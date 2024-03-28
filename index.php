@@ -394,7 +394,7 @@
 			}
 			else
 			{
-				$fichier="https://josianerochafernandes.github.io/achatEtRevendre//".$_GET['p'].'.html';
+				$fichier="https://josianerochafernandes.github.io/achatEtRevendre/".$_GET['p'].'.html';
 			}
 		}
 		
